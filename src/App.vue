@@ -7,7 +7,7 @@ export default {
   data() {
     return {
       records: getData(),
-      date: new Date(2021, 5, 10),
+      date: new Date(2024, 5, 10),
     };
   },
 };
