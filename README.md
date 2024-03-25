@@ -9,7 +9,7 @@
 
 ```
 yarn 
-yarn start
+yarn dev
 ```
 
 You can also use [GitHub Codespaces](https://docs.github.com/en/codespaces/developing-in-a-codespace/creating-a-codespace-for-a-repository) to run online.

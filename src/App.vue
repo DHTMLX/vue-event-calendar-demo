@@ -1,18 +1,18 @@
 <script>
-import Calendar from "./components/Calendar.vue";
+import EventCalendar from "./components/EventCalendarComponent.vue";
 import { getData } from "./data";
 
 export default {
-  components: { Calendar },
-  data() {
-    return {
-      records: getData(),
-      date: new Date(2024, 5, 10),
-    };
-  },
+    components: { EventCalendar },
+    data() {
+        return {
+            records: getData(),
+            date: new Date(2024, 5, 10),
+        };
+    },
 };
 </script>
 
 <template>
-  <Calendar :events="records" :date="date" />
+    <EventCalendar :events="records" :date="date" />
 </template>
