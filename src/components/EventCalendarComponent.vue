@@ -8,12 +8,13 @@ export default {
 
 
     mounted() {
-        new EventCalendar(this.$refs.cont, {
+        this.eventCalendarInstance = new EventCalendar(this.$refs.cont, {
             events: this.events,
             date: this.date,
         });
     },
     unmounted() {
+        this.eventCalendarInstance.destructor();
         this.$refs.cont.innerHTML = "";
     },
 };
