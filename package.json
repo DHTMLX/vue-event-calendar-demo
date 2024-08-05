@@ -1,8 +1,6 @@
 {
   "name": "vue-event-calendar-demo",
-  "private": true,
   "version": "1.0.0",
-  "type": "module",
   "scripts": {
     "start": "vite",
     "build": "vite build",
