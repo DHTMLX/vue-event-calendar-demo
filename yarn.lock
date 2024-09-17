@@ -7,10 +7,10 @@
   resolved "https://registry.yarnpkg.com/@babel/parser/-/parser-7.24.1.tgz#1e416d3627393fab1cb5b0f2f1796a100ae9133a"
   integrity sha512-Zo9c7N3xdOIQrNip7Lc9wvRPzlRtovHVE4lkz8WEDr7uYh/GMQhSiIgFxGIArRHYdJE5kxtZjAf8rT0xhdLCzg==
 
-"@dhx/trial-eventcalendar@^2.1.10":
-  version "2.1.10"
-  resolved "https://npm.dhtmlx.com/@dhx%2ftrial-eventcalendar/-/trial-eventcalendar-2.1.10.tgz#cad492598c95206d490e7cd807ff7ad34ce90fcd"
-  integrity sha512-9uO9pHUFtLlcRXp1jDaOj8MaL5KlKlIfFf4Dlpd1EAPwkashn2affPp2L4UI2/c+AU/x1rER1shJIXgy7rFXKw==
+"@dhx/trial-eventcalendar@^2.2.3":
+  version "2.2.3"
+  resolved "https://npm.dhtmlx.com/@dhx%2ftrial-eventcalendar/-/trial-eventcalendar-2.2.3.tgz#003c88a474b45f57537bfc776b6a42c2801bba3f"
+  integrity sha512-pdCOCkNCTUqJ0LXuOPw/w8YJYzdz7eFR+ORfhoGCG7Z5v95VQ65wzmr0aEPOrsaKC/I26fsUsRL50MgnrNpaMg==
 
 "@esbuild/aix-ppc64@0.20.2":
   version "0.20.2"

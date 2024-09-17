@@ -19,5 +19,5 @@ export default {
 </script>
 
 <template>
-    <div ref="container" style="width: 100%; height: 100%"></div>
+    <div ref="container" class="widget"></div>
 </template>
